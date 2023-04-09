@@ -44,9 +44,6 @@ Open a web browser and navigate to http://localhost:5000 or http://127.0.0.1:500
 ## Usage
 To use the app, simply enter the exercise you want to perform from the dropdown and click “Run”. The app will display the appropriate number of reps for each exercise.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgments
 This app was inspired by the various workout reps calculators available online, and was built as a learning exercise for Flask web development.
 
